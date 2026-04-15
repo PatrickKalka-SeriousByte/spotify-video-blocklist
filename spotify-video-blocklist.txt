@@ -1,0 +1,16 @@
+# Spotify Video Blocklist
+# Purpose: Block Spotify video podcasts and canvas animations
+# Audio streaming should remain functional
+# Last updated: 2026-04-13
+
+# Video streams
+video-fa.scdn.co
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
+
+# Akamai CDN (video delivery)
+video-akpcw-cdn-spotify-com.akamaized.net
+video-ak.cdn.spotify.com.splitter-eip.akadns.net
+
+# Canvas (loop videos in songs)
+canvaz.scdn.co
