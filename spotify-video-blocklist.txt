@@ -5,7 +5,9 @@
 
 # Video streams
 video-fa.scdn.co
-(^|\.)video-[^.]*\..*spotify.*$
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
+video-cf.spotifycdn.com
 
 # Akamai CDN (video delivery)
 video-akpcw-cdn-spotify-com.akamaized.net
